@@ -1,0 +1,16 @@
+{
+  "name": "mehdi/personal_framework_mvc",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "Mehdi Matinfar",
+      "email": "mehdimatinfar1400@gmail.com"
+    }
+  ],
+
+  "require": {}
+}
