@@ -27,6 +27,7 @@ class Router
 
     {
         $path = $this->request->getPath();
+
         $methode = $this->request->getMethode();
 
 //        echo "<pre>";
